@@ -1,0 +1,10 @@
+*.o
+*.a
+*.so
+*.run
+*.swp
+core
+
+cscope.*
+
+tags
