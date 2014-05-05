@@ -6,7 +6,7 @@ The goal of the contest is to design an index for main memory data.
 The index must be capable of supporting exact match queries and range queries, as well as updates, inserts, and deletes. 
 The system must also support serializable execution of user-specified transactions. 
 
-My implementation is based a data structure called "Burst Tire", 
+My implementation is based a data structure called "Burst Trie", 
 which was introduced by [this paper](http://ww2.cs.mu.oz.au/~jz/fulltext/acmtois02.pdf).
 
 The core API specification can be found in the website of SIGMOD Contest'09,
